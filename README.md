@@ -16,4 +16,4 @@ Hi, I'm Nasma
 - Software Development
 
 ###contact
--Email: jumanasma860@gmail.com
+- Email: jumanasma860@gmail.com
